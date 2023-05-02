@@ -1,7 +1,7 @@
 # Mathilde Calon
 
 ## Présentation rapide
-Hello à tous, je m'appelle Mathilde Calon, j'ai 31 ans et je viens de Thumeries, une petite ville près de Lille. Heureusement, j'ai ~~pas~~ l'accent ! Je suis ```l'heureuse maman``` de deux petites filles de 7 mois (Léa) et 3 ans (Adèle), mais aussi belle-maman d'une fille de 8 ans (Lisa) !
+Hello à tous, je m'appelle Mathilde Calon, j'ai 31 ans et je viens de Thumeries, une petite ville près de Lille. Heureusement, j'ai ~~pas~~ l'accent ! Je suis l'heureuse ```maman``` de deux petites filles de 7 mois (Léa) et 3 ans (Adèle), mais aussi belle-maman d'une fille de 8 ans (Lisa) !
 
 ## Pourquoi cette formation ?
 J'ai choisi de faire une formation développeur web après avoir effectué un bilan de compétences : la façon de travailler, la vision logique et le quotidien m'ont très vite intéressée.
