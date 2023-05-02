@@ -17,6 +17,6 @@ En dehors du boulot, j'aime passer du temps sur les jeux vidéos (un peu moins d
 * Tous les _Tomb Raiders_
 * Mon petit préféré, de par sa qualité graphique et son histoire : **_Ori_**
 
-![Ori and the Blind Forest](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.ign.com%2Fori-and-the-blind-forrest%2F3195%2Freview%2Ftest-ori-and-the-blind-forest&psig=AOvVaw0bA3ZF6vreTYuhBRpYkmOk&ust=1683121625901000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiNsezi1v4CFQAAAAAdAAAAABAD "Ori and the Blind Forest")
+![Ori and the Blind Forest](https://sm.ign.com/t/ign_fr/articlepage/o/ori-and-th/ori-and-the-blind-forest-review_u5pt.2560.jpg "Ori and the Blind Forest")
 
 Je fais également du yoga (bon pour le corps et l'esprit) et du piano. D'ailleurs, pour les amateurs, je recommande l'écoute d'Agnes Obel, excellente pianiste et chanteuse souvent accompagnée au violon et violoncelle, pour s'aérer l'esprit, se poser un peu, pourquoi pas travailler : [Agnes Obel - The Curse](https://youtu.be/j1wgaFJ0750)
