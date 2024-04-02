@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning REACT<br>🎯 Goals: learn everything!<br>🎲 Fun fact: I'm a climber</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning REACT<br>🎯 Goals: learn everything!<br>🎲 Fun fact: I'm a rock climber</p>
 
 ###
 
